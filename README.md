@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🦁 Contributor
+## 🦁 Contributors
 <table>
   <tr> 
     <td><a href="https://github.com/gesal03"><img src="https://github.com/MutsaMarket/MutsaMarket-apk/assets/77336664/c4c89e9b-d53f-4f77-9817-ce1139d405a7" style="width:100%;"></a></td>
