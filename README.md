@@ -1,10 +1,9 @@
 # MutsaMarket-apk
-2023 고급모바일프로그래밍 Term Project - Mutsa Market(멋사 마켓)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Android-MutsaMarket&fontSize=50&fontAlignY=40&desc=2023-2%20고급모바일프로그래밍%20&descAlign=80)
 <br>
 
 ## 프로젝트 개요
-> 2023 고급모바일프로그래밍 - 멋사마켓
+> 2023 고급모바일프로그래밍 Term Project - Mutsa Market(멋사 마켓)
 
 파이어베이스 백엔드 서비스를 활용하는 중고거래 안드로이드 앱을 개발하는 프로젝트를 수행합니다. <br>
 프로젝트를 통해 안드로이드에서 파이어베이스 연결/사용 방법을 익히고 다양한 파이어베이스 서비스를 활용할 수 있습니다.
