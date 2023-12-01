@@ -10,7 +10,6 @@
 
 <br><br>
 
-## 팀 구성
 ## 🦁 Contributor
 <table>
   <tr> 
